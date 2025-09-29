@@ -1,5 +1,3 @@
-# MERN Blog Starter
+# MERN Blog Starter (Full, Working)
 
-A minimal MERN starter (MongoDB, Express, React, Node) for a blog posts app.
-- Backend: Express + Mongoose (CRUD for posts), CORS, simple validation.
-- Frontend: React + TypeScript (Vite), Post list and create form.
+See README for run steps in each folder.
