@@ -1,2 +1,5 @@
-# mern-blog-starter
-A full-stack blog platform built with MongoDB, Express, React, and Node.js. Features JWT authentication, secure APIs, and a responsive React frontend. Provides a solid starter for content apps with CRUD posts, user login, and scalable backend integration.
+# MERN Blog Starter
+
+A minimal MERN starter (MongoDB, Express, React, Node) for a blog posts app.
+- Backend: Express + Mongoose (CRUD for posts), CORS, simple validation.
+- Frontend: React + TypeScript (Vite), Post list and create form.
